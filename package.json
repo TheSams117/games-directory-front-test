@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/TheSams117/games-directory-front-test#readme",
   "dependencies": {
-    "cypress": "^7.3.0"
+    "cypress": "^7.3.0",
+    "faker": "^5.5.3"
   }
 }
